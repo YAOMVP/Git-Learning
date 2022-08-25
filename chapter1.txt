@@ -1,1 +1,3 @@
-new Git file in chapter1
+new Git file in chapter1，
+我又加了newjian。
+这次该有反映了吧
